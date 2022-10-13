@@ -34,53 +34,53 @@ So our input file is as follows:
 
 ARE0   P1   69.53490  25.50580  
 ARE0   S1   69.53490  25.50580  
-KEV    P1   69.75530  27.00670
-KEV    S1   69.75530  27.00670
-SGF    P1   67.44211  26.52611
-SGF    S1   67.44211  26.52611
-LP34   P1   67.26574  28.12528
-LP34   S1   67.26574  28.12528
-LP53   P1   68.08434  27.18877
-LP53   S1   68.08434  27.18877
-LP61   P1   67.91408  23.93216
-LP61   S1   67.91408  23.93216
+KEV    P1   69.75530  27.00670  
+KEV    S1   69.75530  27.00670  
+SGF    P1   67.44211  26.52611  
+SGF    S1   67.44211  26.52611  
+LP34   P1   67.26574  28.12528  
+LP34   S1   67.26574  28.12528  
+LP53   P1   68.08434  27.18877  
+LP53   S1   68.08434  27.18877  
+LP61   P1   67.91408  23.93216  
+LP61   S1   67.91408  23.93216  
 
 (call it, for example Finland_phaselist.txt).
 
 If we call the program as follows:
 
-python ../statphase2slowvec.py  \
-          --reflat  67.93590   \
-          --reflon  25.83491   \
-          --phaselistfile Finland_phaselist.txt   \
-          --outfile       Finland_ak135_slovecs.txt
+python ../statphase2slowvec.py  \  
+          --reflat  67.93590   \  
+          --reflon  25.83491   \  
+          --phaselistfile Finland_phaselist.txt   \  
+          --outfile       Finland_ak135_slovecs.txt  
 
-then this should generate the following ASCII file:
+then this should generate the following ASCII file:  
 
-ARE0  P1        69.53490   25.50580  67.93590   25.83491   -0.00888570    0.12337091
-ARE0  S1        69.53490   25.50580  67.93590   25.83491   -0.01594664    0.22140645
-KEV   P1        69.75530   27.00670  67.93590   25.83491    0.02687697    0.12073203
-KEV   S1        69.75530   27.00670  67.93590   25.83491    0.04823417    0.21666916
-SGF   P1        67.44211   26.52611  67.93590   25.83491    0.08181667   -0.15176232
-SGF   S1        67.44211   26.52611  67.93590   25.83491    0.13714934   -0.25439928
-LP34  P1        67.26574   28.12528  67.93590   25.83491    0.13871543   -0.10238026
-LP34  S1        67.26574   28.12528  67.93590   25.83491    0.23252879   -0.17162010
-LP53  P1        68.08434   27.18877  67.93590   25.83491    0.16493699    0.05021592
-LP53  S1        68.08434   27.18877  67.93590   25.83491    0.27648398    0.08417697
-LP61  P1        67.91408   23.93216  67.93590   25.83491   -0.17239066   -0.00260066
-LP61  S1        67.91408   23.93216  67.93590   25.83491   -0.28897858   -0.00435949
+ARE0  P1        69.53490   25.50580  67.93590   25.83491   -0.00888570    0.12337091  
+ARE0  S1        69.53490   25.50580  67.93590   25.83491   -0.01594664    0.22140645  
+KEV   P1        69.75530   27.00670  67.93590   25.83491    0.02687697    0.12073203  
+KEV   S1        69.75530   27.00670  67.93590   25.83491    0.04823417    0.21666916  
+SGF   P1        67.44211   26.52611  67.93590   25.83491    0.08181667   -0.15176232  
+SGF   S1        67.44211   26.52611  67.93590   25.83491    0.13714934   -0.25439928  
+LP34  P1        67.26574   28.12528  67.93590   25.83491    0.13871543   -0.10238026  
+LP34  S1        67.26574   28.12528  67.93590   25.83491    0.23252879   -0.17162010  
+LP53  P1        68.08434   27.18877  67.93590   25.83491    0.16493699    0.05021592  
+LP53  S1        68.08434   27.18877  67.93590   25.83491    0.27648398    0.08417697  
+LP61  P1        67.91408   23.93216  67.93590   25.83491   -0.17239066   -0.00260066  
+LP61  S1        67.91408   23.93216  67.93590   25.83491   -0.28897858   -0.00435949  
 
 (with the name Finland_ak135_slovecs.txt )
 
 
 
 
-References
+References  
 
-Gibbons, S.J., Kvaerna, T., Tiira, T., Kozlovskaya, E., 2020.
-A benchmark case study for seismic event relative location,
-Geophys J Int, 223, 1313-1326
+Gibbons, S.J., Kvaerna, T., Tiira, T., Kozlovskaya, E., 2020.  
+A benchmark case study for seismic event relative location,  
+Geophys J Int, 223, 1313-1326  
 
-Kennett, B.L.N. Engdahl, E.R. & Buland R., 1995.
-Constraints on seismic velocities in the Earth from travel times,
-Geophys J Int, 122, 108-124
+Kennett, B.L.N. Engdahl, E.R. & Buland R., 1995.  
+Constraints on seismic velocities in the Earth from travel times,  
+Geophys J Int, 122, 108-124  
