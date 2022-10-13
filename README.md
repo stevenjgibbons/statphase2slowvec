@@ -32,8 +32,8 @@ phase and the first arriving regional S phase for the 6 stations used by the stu
 
 So our input file is as follows:
 
-ARE0   P1   69.53490  25.50580
-ARE0   S1   69.53490  25.50580
+ARE0   P1   69.53490  25.50580  
+ARE0   S1   69.53490  25.50580  
 KEV    P1   69.75530  27.00670
 KEV    S1   69.75530  27.00670
 SGF    P1   67.44211  26.52611
