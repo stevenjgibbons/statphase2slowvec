@@ -11,7 +11,7 @@ Single standalone python code which takes a single ASCII file of the format
 
 Station_Name   Phase_Name   Station_Lat  Station_Lon
 
-together with a reference coordingate for the source,
+together with a reference coordinate for the source,
 and it will write out a file containing the corresponding lines
 
 
