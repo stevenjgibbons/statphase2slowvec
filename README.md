@@ -2,6 +2,9 @@
 
 statphase2slowvec.py
 
+Licenced under the EUPL (European Union Public Licence)
+https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
+
 Steven J Gibbbons
 June 14, 2021 (NGI)
 
@@ -72,7 +75,10 @@ LP61  S1        67.91408   23.93216  67.93590   25.83491   -0.28897858   -0.0043
 
 (with the name Finland_ak135_slovecs.txt )
 
-
+Release v1.0.0 from October 13, 2022, is archived under
+https://zenodo.org/record/7195885#.Y0rf0UxBxaQ
+DOI 10.5281/zenodo.7195885
+https://doi.org/10.5281/zenodo.7195885
 
 
 References  
