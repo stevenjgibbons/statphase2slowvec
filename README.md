@@ -8,6 +8,9 @@ https://zenodo.org/record/7195885#.Y0rf0UxBxaQ with DOI 10.5281/zenodo.7195885
 
 https://doi.org/10.5281/zenodo.7195885  
 
+[![SQAaaS badge](https://github.com/EOSC-synergy/SQAaaS/raw/master/badges/badges_150x116/badge_software_bronze.png)](https://api.eu.badgr.io/public/assertions/_TtnaHKETMWcqzVVM6hPZw "SQAaaS bronze badge achieved")  
+[![SQAaaS badge shields.io](https://img.shields.io/badge/sqaaas%20software-bronze-e6ae77)](https://api.eu.badgr.io/public/assertions/_TtnaHKETMWcqzVVM6hPZw "SQAaaS bronze badge achieved")  
+
 Licenced under the EUPL (European Union Public Licence)  
 https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12  
 
