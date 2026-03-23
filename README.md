@@ -105,3 +105,10 @@ Kennett, B.L.N. Engdahl, E.R. & Buland R., 1995.
 Constraints on seismic velocities in the Earth from travel times,  
 Geophys J Int, 122, 108-124  
 https://doi.org/10.1111/j.1365-246X.1995.tb03540.x  
+
+
+If you publish using this code, I kindly ask you to cite the following paper: 
+**Relative location of seismic events using broadband frequency-wavenumber analysis: Application to the North Korean Nuclear Test Site**  
+Steven J. Gibbons, *RAS Techniques and Instruments*, rzag023, https://doi.org/10.1093/rasti/rzag023
+
+![Screenshot from the above paper https://doi.org/10.1093/rasti/rzag023](FKRELLOC_Promo_Image_Screenshot.png)
